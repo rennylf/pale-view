@@ -1,0 +1,33 @@
+.weread-canvas-modal h3 {
+  margin: 0 0 6px;
+}
+
+.weread-canvas-modal textarea {
+  width: 100%;
+  height: 46vh;
+  min-height: 240px;
+  margin-top: 12px;
+  padding: 10px 12px;
+  resize: vertical;
+  font-family: var(--font-monospace);
+  font-size: 13px;
+  line-height: 1.6;
+  white-space: pre;
+  overflow: auto;
+  border-radius: var(--radius-s);
+  background: var(--background-primary-alt);
+  color: var(--text-normal);
+  border: 1px solid var(--background-modifier-border);
+}
+
+.weread-canvas-modal textarea:focus {
+  outline: none;
+  border-color: var(--interactive-accent);
+}
+
+.weread-canvas-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  margin-top: 14px;
+}
