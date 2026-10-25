@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 868 300" width="868" height="300">
+  <rect width="868" height="300" fill="#F7F5F0"/>
+  <g transform="translate(175 90) scale(5)" fill="none" stroke="#806B50" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M2.5 17.6 7.2 11l2.6 3 4.4-7.2 7.3 10.8"/>
+    <path d="M2.5 20q2.3-1.4 4.6 0t4.6 0t4.6 0t4.8 0" stroke-width="1.2" opacity=".5"/>
+  </g>
+  <g font-family="'Songti SC','Noto Serif CJK SC','Source Han Serif SC',serif">
+    <text x="343" y="160" fill="#292824" font-size="68" letter-spacing="1.5">Pale View</text>
+    <line x1="345" y1="184" x2="465" y2="184" stroke="#C6BFAE" stroke-width="1"/>
+    <text x="345" y="216" fill="#858176" font-size="20" letter-spacing="3">把笔记摊成画布</text>
+    <text x="346" y="248" fill="#ABA69A" font-size="11.5" letter-spacing="3.4" font-family="'Helvetica Neue',Arial,sans-serif">OBSIDIAN PLUGIN</text>
+  </g>
+</svg>
