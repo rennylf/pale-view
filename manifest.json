@@ -1,0 +1,10 @@
+{
+  "id": "pale-view",
+  "name": "Pale View",
+  "version": "1.2.2",
+  "minAppVersion": "1.1.0",
+  "description": "Pale View（淡景）· Obsidian 插件：把微信读书笔记一键摊成 Canvas 卡片，保留原文、想法、章节号与时间。",
+  "author": "任顾远",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
