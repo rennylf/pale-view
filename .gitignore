@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Obsidian 运行时 / 个人仓库产物
+data.json
+.obsidian/
+workspace.json
+workspace-mobile.json
+
+# 依赖与临时文件
+node_modules/
+*.log
